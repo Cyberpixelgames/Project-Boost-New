@@ -107,7 +107,7 @@ public class Rocket : MonoBehaviour
 
     private void LoadFirstLevel() // allow for more than 2 levels
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 
     private void RespondToThrustInput()
